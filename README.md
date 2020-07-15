@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Kavya Tripathi from Indian Institute of Information Technology Vadodara.
+
 📫 How to reach me: tripathi.kavya526@gmail.com
 <!--
 **kavyatripathi/kavyatripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
