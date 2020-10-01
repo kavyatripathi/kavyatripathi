@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Kavya Tripathi from Indian Institute of Information Technology Vadodara.
+I am Kavya Tripathi from Indian Institute of Information Technology, Vadodara.
 
 📫 How to reach me: tripathi.kavya526@gmail.com
 <!--
